@@ -1,5 +1,5 @@
 <?php
-
+//Revisi pada Praktikum 4B
 class Kerucut
 {
     const PHI = 3.14;
