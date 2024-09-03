@@ -1,5 +1,5 @@
 <?php
-
+//Gabungan antara praktikum 4B dan 4C
 class Lingkaran
 {
     const PHI = 3.14;
