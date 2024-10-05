@@ -3,10 +3,10 @@
 namespace App\Admin;
 
 class pegawai {
-    protected $nip;
-    protected $nama;
-    private $no_hp;
-    protected $alamat;
+    public $nip;
+    public $nama;
+    public $no_hp;
+    public $alamat;
 
     public function cekIn(): bool {
         // Implementasi
