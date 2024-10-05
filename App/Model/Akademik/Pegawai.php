@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Admin;
+namespace App\Model\Akademik;
 
-class pegawai {
+class Pegawai {
     public $nip;
     public $nama;
     public $no_hp;
