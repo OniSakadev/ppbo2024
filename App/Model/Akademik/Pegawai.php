@@ -5,7 +5,7 @@ namespace App\Model\Akademik;
 class Pegawai {
     public $nip;
     public $nama;
-    public $no_hp;
+    protected $no_hp;
     public $alamat;
 
     public function cekIn(): bool {
