@@ -1,7 +1,7 @@
 <?php
 require_once 'vendor/autoload.php';
 
-use App\Admin\Dosen;
+use App\Model\Akademik\Dosen;
 
 // Membuat objek $dian yang merupakan instance dari kelas Dosen
 $dian = new Dosen();
