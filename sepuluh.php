@@ -1,5 +1,6 @@
 <?php
 
+require_once 'vendor/autoload.php';
 
 require_once 'App/Admin/HomePage.php';
 require_once 'App/Admin/ManajemenArtikel.php';
